@@ -1,0 +1,266 @@
+Welcome to the Pokemon Battle Simulator!
+
+Jason sent out Charmander!
+Computer sent out Squirtle!
+
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 10/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 5/5
+4) Fire Punch Damage:10 10/10
+Choice: 1
+Charmander uses Bodyslam!
+Charmander Health: 100
+Squirtle Health: 85
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 10/10
+2) Water Gun Damage:10 15/15
+3) Hydro Cannon Damage:20 5/5
+4) Surf Damage:15 10/10
+Choice: 4
+Squirtle uses Surf!
+Super Effective!
+Charmander Health: 70
+Squirtle Health: 85
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 9/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 5/5
+4) Fire Punch Damage:10 10/10
+Choice: 1
+Charmander uses Bodyslam!
+Charmander Health: 70
+Squirtle Health: 70
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 2
+
+Potion was used!
+Charmander Health: 70
+Squirtle Health: 80
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 8/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 5/5
+4) Fire Punch Damage:10 10/10
+Choice: 1
+Charmander uses Bodyslam!
+Charmander Health: 70
+Squirtle Health: 65
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 2
+
+You do not have anymore Potions!
+Charmander Health: 70
+Squirtle Health: 65
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 7/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 5/5
+4) Fire Punch Damage:10 10/10
+Choice: 3
+Charmander uses Flamethrower!
+Not Very Effective!
+Charmander Health: 70
+Squirtle Health: 53
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 2
+
+You do not have anymore Potions!
+Charmander Health: 70
+Squirtle Health: 53
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 7/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 4/5
+4) Fire Punch Damage:10 10/10
+Choice: 1
+Charmander uses Bodyslam!
+Charmander Health: 70
+Squirtle Health: 38
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 2
+
+You do not have anymore Potions!
+Charmander Health: 70
+Squirtle Health: 38
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 6/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 4/5
+4) Fire Punch Damage:10 10/10
+Choice: 1
+Charmander uses Bodyslam!
+Charmander Health: 70
+Squirtle Health: 23
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 10/10
+2) Water Gun Damage:10 15/15
+3) Hydro Cannon Damage:20 5/5
+4) Surf Damage:15 9/10
+Choice: 1
+Squirtle uses Bodyslam!
+Charmander Health: 55
+Squirtle Health: 23
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 5/10
+2) Scratch Damage:10 15/15
+3) Flamethrower Damage:25 4/5
+4) Fire Punch Damage:10 10/10
+Choice: 2
+Charmander uses Scratch!
+Charmander Health: 55
+Squirtle Health: 13
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 2
+
+You do not have anymore Potions!
+Charmander Health: 55
+Squirtle Health: 13
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 5/10
+2) Scratch Damage:10 14/15
+3) Flamethrower Damage:25 4/5
+4) Fire Punch Damage:10 10/10
+Choice: 2
+Charmander uses Scratch!
+Charmander Health: 55
+Squirtle Health: 3
+
+------------------------------------------
+Computer Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 9/10
+2) Water Gun Damage:10 15/15
+3) Hydro Cannon Damage:20 5/5
+4) Surf Damage:15 9/10
+Choice: 1
+Squirtle uses Bodyslam!
+Charmander Health: 40
+Squirtle Health: 3
+
+------------------------------------------
+Jason Choose your action:
+1)Attack
+2)Use Item
+3)Flee
+choice: 1
+
+Choose your attack!
+1) Bodyslam Damage:15 5/10
+2) Scratch Damage:10 13/15
+3) Flamethrower Damage:25 4/5
+4) Fire Punch Damage:10 10/10
+Choice: 4
+Charmander uses Fire Punch!
+Not Very Effective!
+Squirtle has fainted!
